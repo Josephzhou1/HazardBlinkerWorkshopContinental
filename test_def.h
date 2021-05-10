@@ -1,0 +1,9 @@
+void testActivateFromOff();
+void testActivateFromBlinking();
+void testPowerOn();
+void testDeactivateFromOff();
+void testDeactivateFromBlinking();
+void testDamageFromOff();
+void testDamageFromBlinking();
+void testSequenceOffBlinkingOff();
+void testSequenceBlinkingOffBlinking();
